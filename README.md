@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Project Live Link
+
+https://youtube-clone-isha.vercel.app/
+
+# Project Update
+
+This project is still in building phase. I contribute new features and update it on daily basis. 
+
 ## Available Scripts
 
 In the project directory, you can run:
